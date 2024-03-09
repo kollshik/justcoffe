@@ -83,7 +83,7 @@ html, body {
 .header{
    margin-bottom: 40px;
   /* max-width: 1280px; */
-  background: url(/images/header/bac.jpg) 0 0 / cover no-repeat;
+  background: url(images/header/bac.jpg) 0 0 / cover no-repeat;
 }
   .header__top {
     background: #ffffff12;
@@ -153,7 +153,7 @@ html, body {
           left: 0;
           width: 15px;
           height: 12px;
-          background: url(/images/header/icon/Call.svg);  
+          background: url(images/header/icon/Call.svg);  
           transform: translateY(-50%);
         }
     .burger {
@@ -170,7 +170,7 @@ html, body {
           left: 0;
           width: 15px;
           height: 12px;
-          background: url(/images/header/icon/At\ sign.svg);
+          background: url(images/header/icon/At\ sign.svg);
           transform: translateY(-50%);
         }
       .header__contact-tel:hover{
@@ -398,7 +398,7 @@ html, body {
   height: 220px;
   top: 55px;
   left: 100px;
-  background: url(/images/menu/decortop.png)  0 0 / 100% no-repeat;
+  background: url(images/menu/decortop.png)  0 0 / 100% no-repeat;
 }
 .menu::after{
   content: '';
@@ -407,7 +407,7 @@ html, body {
   height: 224px;
   bottom: 70px;
   right: 100px;
-  background: url(/images/menu/decorbottom.png) 0 0 / 100% no-repeat;
+  background: url(images/menu/decorbottom.png) 0 0 / 100% no-repeat;
 }
   .menu__inner {
     display: flex;
@@ -580,7 +580,7 @@ html, body {
   left: 22px;
   width: 283px;
   height: 282px;
-  background: url(/images/galery/decor/cup.svg);
+  background: url(images/galery/decor/cup.svg);
   mix-blend-mode: multiply;
 }
 .galery::after{
@@ -590,7 +590,7 @@ html, body {
   right: -135px;
   width: 436px;
   height: 600px;
-  background: url(/images/galery/decor/bob1.svg);
+  background: url(images/galery/decor/bob1.svg);
   mix-blend-mode: multiply;
 }
 .galery::cue{
@@ -600,7 +600,7 @@ html, body {
   right: 0;
   width: 436px;
   height: 600px;
-  background: url(/images/galery/decor/bob1.svg);
+  background: url(images/galery/decor/bob1.svg);
   mix-blend-mode: multiply;
 }
   .galery__inner {
@@ -616,7 +616,7 @@ html, body {
     right: 43%;
     width: 436px;
     height: 600px;
-    background: url(/images/galery/decor/bob2.svg) 0 0 / 100% no-repeat;
+    background: url(images/galery/decor/bob2.svg) 0 0 / 100% no-repeat;
     mix-blend-mode: multiply;
   }
 
@@ -691,7 +691,7 @@ html, body {
     height: 421px;
     bottom: 10%;
     left: 50%;
-    background: url(/images/contact/fon_decor_cup.jpg);
+    background: url(images/contact/fon_decor_cup.jpg);
     mix-blend-mode: multiply;
     transform: translateX(-50%);
     z-index: -1;
@@ -704,7 +704,7 @@ html, body {
     height: 317px;
     top: 25%;
     left: 50%;
-    background: url(/images/contact/fon_decor.jpg);
+    background: url(images/contact/fon_decor.jpg);
     mix-blend-mode: multiply;
     transform: translateX(-50%);
     z-index: -1;
@@ -729,7 +729,7 @@ html, body {
       height: 220px;
       top: -27px;
       left: 57px;
-      background: url(/images/menu/decortop.png)  0 0 / 100% no-repeat;
+      background: url(images/menu/decortop.png)  0 0 / 100% no-repeat;
     }
       .contact__header {
         margin-bottom: 135px;
@@ -911,7 +911,7 @@ html, body {
         left: 0;
         width: 15px;
         height: 12px;
-        background: url(/images/header/icon/Call.svg); 
+        background: url(images/header/icon/Call.svg); 
         transform: translateY(-50%);
         opacity: .6; 
       }
@@ -926,7 +926,7 @@ html, body {
         left: 0;
         width: 15px;
         height: 12px;
-        background: url(/images/header/icon/At\ sign.svg);
+        background: url(images/header/icon/At\ sign.svg);
         transform: translateY(-50%);
         opacity: .6; 
       }
