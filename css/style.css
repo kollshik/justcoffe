@@ -83,7 +83,7 @@ html, body {
 .header{
    margin-bottom: 40px;
   /* max-width: 1280px; */
-  background: url(/images/header/bac.jpg) 0 0 / cover no-repeat;
+  background: url('images/header/bac.jpg') 0 0 / cover no-repeat;
 }
   .header__top {
     background: #ffffff12;
