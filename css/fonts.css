@@ -1,0 +1,20 @@
+ @font-face {
+  font-family: Arsenal;
+  font-weight: 700;
+  font-style: normal;
+  src: local("Lato"),
+       url("../fonts/AnyConv.com__Arsenal-Bold.eot") format('eot'),
+       url("../fonts/AnyConv.com__Arsenal-Bold.woff") format('woff'),
+       url("../fonts/AnyConv.com__Arsenal-Bold.woff2") format('woff2');
+  font-display: swap;
+}
+@font-face {
+  font-family: Arsenal;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Lato"),
+       url("../fonts/AnyConv.com__Arsenal-Regular.eot") format('eot'),
+       url("../fonts/AnyConv.com__Arsenal-Regular.woff") format('woff'),
+       url("../fonts/AnyConv.com__Arsenal-Regular.woff2") format('woff2');
+  font-display: swap;
+}
