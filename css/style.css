@@ -82,7 +82,7 @@ html, body {
 /* ============================== HEADER ============================== */
 .header{
    margin-bottom: 40px;
-  /* max-width: 1280px; это лучший вариант 222*/
+  /* max-width: 1280px; это не лучший вариант 222*/
   background: url(../images/header/bac.jpg) 0 0 / cover no-repeat;
 }
   .header__top {
